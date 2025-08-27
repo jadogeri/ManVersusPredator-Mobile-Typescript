@@ -1,3 +1,3 @@
-export class Predator{
+export class Monster{
     
 }
